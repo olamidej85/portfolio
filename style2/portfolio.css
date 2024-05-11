@@ -9,7 +9,9 @@
     font-family: var(--default-font-family);
   }
   .logo{
-    max-width: 150px;
+    max-width: 100px;
+    margin-top: 0;
+    padding-top: 0;
   }
   nav{
     padding: 20px 0;
@@ -22,7 +24,7 @@
   nav li{
     display: inline;
     list-style: none;
-    line-height: 42px;
+    line-height: 50px;
     margin-left: 15px;
   }
   nav li.active a{
